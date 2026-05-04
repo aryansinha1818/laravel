@@ -1,0 +1,1 @@
+<h1>hello hello i am common view</h1>

@@ -1,3 +1,4 @@
+@include('common.new')
 <div>
     <!-- Smile, breathe, and go slowly. - Thich Nhat Hanh -->
     <h1>About 2 </h1>
@@ -10,7 +11,7 @@
     <h1>yes</h1>
     @else
     <h1>no</h1>
-    @endif
+    @endifq
 </div>
 
 <div>
